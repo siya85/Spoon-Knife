@@ -13,6 +13,10 @@
 
 <body>
 
+    <div id="header">
+        <h1>Test Git Project!</h1>
+    </div>
+
     <img src="forkit.gif" id="octocat" alt="Octocat fork" title="Awesome animation" />
 
     <p>
