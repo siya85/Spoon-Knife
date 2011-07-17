@@ -13,6 +13,10 @@
 
 <body>
 
+    <div id="header">
+        <h1>Test Git Project!</h1>
+    </div>
+
     <img src="forkit.gif" id="octocat" alt="Octocat fork" title="Awesome animation" />
 
     <p>
@@ -23,6 +27,10 @@
     <div id="rainbow-message" style="display:none">
         Double repositories all the way across the sky!<br/>
         <a href="http://help.github.com/fork-a-repo/">What does it mean?</a>
+    </div>
+
+    <div id="footer">
+        The current year is <?php echo date('Y'); ?>
     </div>
 
 </body>
