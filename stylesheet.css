@@ -28,4 +28,10 @@ p
     -moz-box-shadow: -5px 10px 15px gray;
     font-family: sans-serif;
 }
-    
+
+#footer
+{
+    text-align: center;
+    color: #555;
+    padding-top: 100px;
+}

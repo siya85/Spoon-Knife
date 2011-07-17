@@ -25,6 +25,10 @@
         <a href="http://help.github.com/fork-a-repo/">What does it mean?</a>
     </div>
 
+    <div id="footer">
+        The current year is <?php echo date('Y'); ?>
+    </div>
+
 </body>
 
 </html>
