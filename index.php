@@ -20,7 +20,7 @@
     <img src="forkit.gif" id="octocat" alt="Octocat fork" title="Awesome animation" />
 
     <p>
-      Fork me? No, fork you!
+      Fork me? No, <a href="fork/index.html">fork</a> you!
       Fork them!
     </p>
 
