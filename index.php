@@ -30,6 +30,7 @@
     </div>
 
     <div id="footer">
+        The current year is <?php echo date('Y'); ?>
     </div>
 
 </body>
