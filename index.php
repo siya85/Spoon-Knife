@@ -17,7 +17,7 @@
         <h1>Test Git Project!</h1>
     </div>
 
-    <img src="forkit.gif" id="octocat" alt="Octocat fork" title="Awesome animation" />
+    <img src="forkit.gif" id="octocat" alt="Octocat fork" title="A moving picture" />
 
     <p>
       Fork me? No, <a href="fork/index.html">fork</a> you!
