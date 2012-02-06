@@ -20,7 +20,7 @@
     <img src="forkit.gif" id="octocat" alt="Octocat fork" title="A moving picture" />
 
     <p>
-      Do you want a, <a href="fork/index.html">teaspoon</a> with your pink drink?      
+      Do you want a, <a href="teaspoon/index.html">teaspoon</a> with your pink drink?      
     </p>
 
     <div id="rainbow-message" style="display:none">
